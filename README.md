@@ -6,7 +6,7 @@
 1. Prepare a clean, unmodded Minecraft 1.17.1 instance with latest Fabric - either via your launcher, or by installing it with [official installer](https://fabricmc.net/use/)
 2. Download [packwiz installer bootstrap](https://github.com/comp500/packwiz-installer-bootstrap/releases) and put it in your minecraft instance directory (open it from launcher if you can, by default it's `~/.minecraft` or `%appdata%/.minecraft`)
 3. Open terminal and run this in minecraft instance directory (the same with packwiz installer bootstrap):
-  ```java -jar packwiz-installer-bootstrap.jar https://github.com/SteelPh0enix/MCModpack1.17/blob/master/pack.toml```
+  ```java -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/SteelPh0enix/MCModpack1.17/master/pack.toml```
 4. You should see a window with progress bar. The mods should download automatically, and after that you should be able to run Minecraft with all the mods installed.
 
 ## Modlist
