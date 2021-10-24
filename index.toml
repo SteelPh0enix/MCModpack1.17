@@ -236,6 +236,11 @@ hash = "7c761c51deba63b76caffc2d41af96ccae70ef0cbb789db682d3fc7b43994f67"
 metafile = true
 
 [[files]]
+file = "mods/ninjaphenixs-container-library.toml"
+hash = "27e3218bf76edc0383469e4fd824aebf27c164df25e9ac445f5b05e1f0bc81cf"
+metafile = true
+
+[[files]]
 file = "mods/offlineskins-fabric.toml"
 hash = "53df2c885db01962aae4414e0d8b19d0a86b2176c0e86fca17fa5322bcfe5c86"
 metafile = true
