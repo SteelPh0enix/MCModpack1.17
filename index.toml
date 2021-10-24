@@ -176,6 +176,11 @@ hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "7f298bc09aeec405b8cfc2a0c0b2f4df0dfa8ebacb1747a7848b002dcc5264bc"
+metafile = true
+
+[[files]]
 file = "mods/inmis.toml"
 hash = "26ad38a6dfb9fe8c0e0fcd3b8b070a9efbfc3f86df3905f1da21128e7a325509"
 metafile = true
@@ -273,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.toml"
-hash = "0a037711955c1f0108d195683e2d8018f9193270e86a61d2e5cd2d874cae7000"
 metafile = true
 
 [[files]]
