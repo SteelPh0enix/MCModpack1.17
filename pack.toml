@@ -1,0 +1,12 @@
+name = "SteelPh0enixMC"
+author = "SteelPh0enix"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "879afdbd176972952d83f33223739cab6825a5cb04c58e53ebb20c39698fe522"
+
+[versions]
+fabric = "0.12.2"
+minecraft = "1.17.1"
