@@ -1,0 +1,14 @@
+name = "OfflineSkins (Fabric)"
+filename = "OfflineSkins-1.17.1-v2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/29/OfflineSkins-1.17.1-v2-fabric.jar"
+hash-format = "murmur2"
+hash = "1320278299"
+
+[update]
+[update.curseforge]
+file-id = 3420029
+project-id = 382582
+release-channel = "beta"

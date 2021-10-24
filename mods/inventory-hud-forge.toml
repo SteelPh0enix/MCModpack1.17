@@ -1,9 +1,9 @@
 name = "Inventory HUD+"
-filename = "InventoryHUD-fabric-[1.17.x]-3.4.0.jar"
+filename = "InventoryHUD-fabric-1.17.x-3.4.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3432/419/InventoryHUD-fabric-[1.17.x]-3.4.0.jar"
+url = "https://edge.forgecdn.net/files/3432/419/InventoryHUD-fabric-%5B1.17.x%5D-3.4.0.jar"
 hash-format = "murmur2"
 hash = "3301090913"
 
