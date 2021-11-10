@@ -1,11 +1,12 @@
 name = "SteelPh0enixMC"
 author = "SteelPh0enix"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62238a3757b888e9bcf312c3919356ab201dae491f65a03084092a272161af08"
+hash = "74f1aa9fa63df2bd7b21725e749b249113ef8e10a01128127744f6ca071cd047"
 
 [versions]
 fabric = "0.12.2"
